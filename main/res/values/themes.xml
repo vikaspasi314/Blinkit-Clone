@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Theme.BlinkitClone" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blinkit_yellow</item>
+        <item name="colorPrimaryVariant">@color/blinkit_yellow</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="android:statusBarColor">@color/blinkit_yellow</item>
+    </style>
+
+</resources>
